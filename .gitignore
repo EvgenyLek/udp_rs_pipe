@@ -1,0 +1,12 @@
+/udp_rs_pipe/Debug
+/udp_rs_pipe/Release
+/udp_rs_pipe/list
+/Debug
+/Release
+
+/ipch
+/udp_rs_pipe/*.output
+udp_rs_pipe.sdf
+udp_rs_pipe.suo
+.vs
+/udp_rs_pipe.sdf
